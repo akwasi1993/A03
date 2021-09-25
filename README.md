@@ -30,7 +30,7 @@
 
 
 
-***Branch:** Branch is use for maintaining version control of code\
+>**Branch:** Branch is use for maintaining version control of code\
 ***Clone:** Clone is when you copy the repository from GitHub to your local machine. Cloning repository from GitHub to your local machine also make it easy to fix merge conflict.\
 ***Commit:** Commit make changes to one or more files in the branch. Commit tells the history of your repository, it tells when a change has been made.\
 ***Fetch:** fetch download commit, files from the repository to the local repository\
